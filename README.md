@@ -124,6 +124,10 @@ Conferences to be update:
 - [DiDeMo](<https://github.com/LisaAnne/LocalizingMoments>)
 - [TACoS](http://www.coli.uni-saarland.de/projects/smile/page.php?id=software)
 
+## Tencent Excel
+
+https://docs.qq.com/sheet/DREd3cHJTc0RsWkp0
+
 ## Licenses
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
