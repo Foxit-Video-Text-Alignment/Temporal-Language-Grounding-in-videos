@@ -113,6 +113,7 @@ Weakly Supervised:
 - [Fast Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Fast_Video_Moment_Retrieval_ICCV_2021_paper.html) - Gao et al, `ICCV 2021`.
 - [Interventional Video Grounding with Dual Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Nan_Interventional_Video_Grounding_With_Dual_Contrastive_Learning_CVPR_2021_paper.pdf) - Nan et al, `CVPR 2021`
 - [MABAN: Multi-Agent Boundary-Aware Network for Natural Language Moment Retrieval](https://ieeexplore.ieee.org/document/9451629) - Sun et al, `TIP 2021`
+- [Deconfounded Video Moment Retrieval with Causal Intervention](https://arxiv.org/abs/2106.01534) - Yang et al, `SIGIR 2021` [[code]](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
 
 Conferences to be update:
 - None
